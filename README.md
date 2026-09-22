@@ -14,7 +14,7 @@
 
 - `AGENTS.md`：AI 编码代理的入职手册。
 - `INIT.md`：模板初始化引导（仓库尚未初始化为本项目时存在；初始化完成后删除）。
-- `docs/architecture.md`：系统设计唯一权威。
+- `docs/architecture.md`：系统设计唯一权威（术语表 / 产品架构 / 逻辑架构 / 数据模型 / 代码架构 / 部署架构；骨架随模板下发）。
 - `docs/before-push-checklist.md`：push 前三态检查清单。
 - `docs/code-standards.md`：工程规范与反面案例。
 - `docs/agent-collab-metrics.md`：人机协作度量登记口径。
